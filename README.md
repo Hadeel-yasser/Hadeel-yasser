@@ -2,13 +2,13 @@
 ![Blue White Futuristic Future Technology Banner (1021 x 250 px)](https://github.com/Hadeel-yasser/Hadeel-yasser/assets/105214581/7d315449-eb1f-4a35-ac84-c855677ddf85)
 
 <h1 align="center">Hi 👋, I'm Hadeel Yasser</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Enthusiast</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning more about **Data Visualization** and  **Deep Learning**
 
 - 👉 My most recent project is **SmartHire: AI powered hiring software**
 
-- 💬 Ask me about **python, machine learning**
+- 💬 Ask me about **python, machine learning, data analysis**
 
 - ⚡ Fun fact **I am a photographer**
 
